@@ -1,0 +1,29 @@
+[
+    {
+       "id": 1,
+       "name": "Alice Johnson",
+       "email": "alice.johnson@example.com",
+       "class": "10th Grade",
+       "age": 15,
+       "address": "123 Elm Street, Springfield",
+       "phone": "555-1234"
+    },
+    {
+       "id": 2,
+       "name": "Bob Smith",
+       "email": "bob.smith@example.com",
+       "class": "11th Grade",
+       "age": 16,
+       "address": "456 Oak Avenue, Springfield",
+       "phone": "555-5678"
+    },
+    {
+       "id": 3,
+       "name": "Charlie Brown",
+       "email": "charlie.brown@example.com",
+       "class": "12th Grade",
+       "age": 17,
+       "address": "789 Maple Drive, Springfield",
+       "phone": "555-8765"
+    }
+ ]
